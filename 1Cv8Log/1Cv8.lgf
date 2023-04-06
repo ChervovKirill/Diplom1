@@ -1,0 +1,27 @@
+﻿1CV8LOG(ver 2.0)
+5ef76a52-cb65-44b9-9d2a-a95c9d9928e4
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"WIN-1GFRFG084GJ",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",3},
+{3,"BackgroundJob",3},
+{4,"_$InfoBase$_.ConfigUpdate",4},
+{4,"_$InfoBase$_.DBConfigUpdateStart",5},
+{4,"_$InfoBase$_.PredefinedDataUpdate",6},
+{5,f2b6a125-65d5-4b7c-96b4-ddb046e865e3,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,f2b6a125-65d5-4b7c-96b4-ddb046e865e3,"Справочник.Номенклатура",1},
+{4,"_$Transaction$_.Commit",10},
+{4,"_$Data$_.Update",11},
+{5,8d830433-7578-4df1-8308-23b1b43a71cc,"Документ.Приход",2},
+{4,"_$Data$_.Post",12},
+{5,e749873b-f934-4c68-9597-045df96e1e8c,"Документ.Расход",3},
+{4,"_$PerformError$_",13},
+{4,"_$InfoBase$_.DBConfigUpdateError",14}
